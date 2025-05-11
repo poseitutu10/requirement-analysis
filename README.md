@@ -15,3 +15,7 @@ The Requirement Analysis Project focuses on crafting a comprehensive foundation 
 3. Requirement Documentation
 4. Requirement analysis and modeling
 5. Requirement Validation
+
+## Types of Requirements.
+1. Functional requirements: This shows what the system should do
+2. Non-functional requirements: This shows how the system should perform
