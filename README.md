@@ -23,4 +23,13 @@ The Requirement Analysis Project focuses on crafting a comprehensive foundation 
 ## Use Case Diagrams.
 Use Diagrams are diagrammatic representation of how users interact with systems for software development
 
-![alx-booking-uc drawio](https://github.com/user-attachments/assets/06274f86-c073-48c0-8efd-9fe5bee26c81)
+![alx-booking-uc drawio](https://github.com/user-attachments/assets/6355b3ec-209e-4feb-8704-8b75f5cb7e41)
+
+
+## Acceptance Criteria.
+1. The user must be able to create an account
+2. The user must be able to authenticate users
+3. The user must be able to book properties
+4. The user must be able to display property listing
+5. The user must be able to search properties based on many parameters
+
