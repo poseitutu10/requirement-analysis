@@ -23,7 +23,7 @@ The Requirement Analysis Project focuses on crafting a comprehensive foundation 
 ## Use Case Diagrams.
 Use Diagrams are diagrammatic representation of how users interact with systems for software development
 
-![alx-booking-uc drawio](https://github.com/user-attachments/assets/6355b3ec-209e-4feb-8704-8b75f5cb7e41)
+![alx-booking-uc.png](https://github.com/user-attachments/assets/6355b3ec-209e-4feb-8704-8b75f5cb7e41)
 
 
 ## Acceptance Criteria.
